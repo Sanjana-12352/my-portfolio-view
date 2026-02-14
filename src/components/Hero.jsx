@@ -12,7 +12,7 @@ const Hero = () => {
     <section className="hero">
       <div className="container">
         <div className="hero-content">
-          <div className="hero-tag">// FULL STACK DEVELOPER</div>
+          <div className="hero-tag">FULL STACK DEVELOPER</div>
           <h1>DUVVURI SANJANA</h1>
           <p className="subtitle">
             Building production-ready applications with modern tech stacks. 

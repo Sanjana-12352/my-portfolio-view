@@ -24,8 +24,8 @@ const Projects = () => {
       tech: ['React', 'JavaScript', 'HTML/CSS'],
       demoLink: '#',
       githubLink: '#',
-      category: 'ongoing',
-      status: 'ONGOING'
+      category: 'copleted',
+      status: 'completed'
     },
     {
       id: 3,

@@ -11,12 +11,7 @@ const Contact = () => {
       label: 'GitHub',
       link: 'https://github.com/Sanjana-12352'
     },
-    {
-      id: 3,
-      icon: '💼',
-      label: 'LinkedIn',
-      link: 'https://linkedin.com/in/yourusername'
-    }
+    
   ];
 
   return (

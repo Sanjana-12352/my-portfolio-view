@@ -25,7 +25,7 @@ const Navigation = ({ scrolled }) => {
     <nav className={`navigation ${scrolled ? 'scrolled' : ''}`}>
       <div className="container">
         <div className="nav-content">
-          <div className="logo">{'< YourName />'}</div>
+          <div className="logo">{'< SANJANA />'}</div>
           
           <button 
             className="mobile-toggle"
