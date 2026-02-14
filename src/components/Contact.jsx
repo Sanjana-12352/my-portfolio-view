@@ -4,7 +4,7 @@ const Contact = () => {
   const contacts = [
     {
       id: 1,
-      label: 'sanjanaredduduvvuri7@gmail.com'
+      label: 'sanjanareddyduvvuri7@gmail.com'
     },
     {
       id: 2,
